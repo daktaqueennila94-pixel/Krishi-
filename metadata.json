@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Bondhu AI",
+  "description": "Professional Bengali AI agricultural voice assistant for crop disease diagnosis and seasonal farming guidance.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
